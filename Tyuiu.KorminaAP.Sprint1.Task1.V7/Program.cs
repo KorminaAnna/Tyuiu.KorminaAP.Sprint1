@@ -9,7 +9,7 @@ namespace Tyuiu.KorminaAP.Sprint1.Task1.V7
             Console.Title = "Спринт #1 | Выполнила: Кормина А. П. | ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Организация ввода / вывода в консольных приложениях               *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
             Console.WriteLine("* Выполнила: Кормина Анна Павловна | ПИНб-26-1                            *");
